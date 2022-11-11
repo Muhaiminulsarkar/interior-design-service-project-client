@@ -14,7 +14,7 @@ const ServicesDetails = () => {
   const [reviews, setReviews] = useState([]);
   useTitle("reviews");
   useEffect(() => {
-    fetch("http://localhost:5000/reviews")
+    fetch("https://interior-design-server-site.vercel.app/reviews")
       .then((res) => res.json())
       .then((data) => setReviews(data));
   }, []);
@@ -30,7 +30,7 @@ const ServicesDetails = () => {
     const additems = { name, image, rating, reviews, id, email };
 
     //send data
-    fetch("http://localhost:5000/reviews", {
+    fetch("https://interior-design-server-site.vercel.app/reviews", {
       method: "POST",
       headers: {
         "content-type": "application/json",

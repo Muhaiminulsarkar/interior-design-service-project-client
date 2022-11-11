@@ -65,7 +65,7 @@ function App() {
         {
           path: "/services/:id",
           loader: ({ params }) =>
-            fetch(`http://localhost:5000/services/${params.id}`),
+            fetch(`https://interior-design-server-site.vercel.app/services/${params.id}`),
           element: <ServicesDetails></ServicesDetails>,
         },
         {

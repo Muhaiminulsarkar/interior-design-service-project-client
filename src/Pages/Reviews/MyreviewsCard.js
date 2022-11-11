@@ -10,7 +10,7 @@ const MyreviewsCard = ({ review }) => {
     const proceed = window.confirm("Are you sure delete?");
     if (proceed) {
       console.log("deleting", id);
-      const url = `http://localhost:5000/reviews/${id}`;
+      const url = `https://interior-design-server-site.vercel.app/${id}`;
       fetch(url, {
         method: "DELETE",
       })

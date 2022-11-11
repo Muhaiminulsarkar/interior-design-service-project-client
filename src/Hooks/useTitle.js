@@ -2,7 +2,7 @@ import { useEffect } from "react"
 
 const useTitle =title=>{
    useEffect(()=>{
-    document.title=`cloud kitchen ${title}`
+    document.title=`Interior Hub ${title}`
    }
      
     ,[title])
