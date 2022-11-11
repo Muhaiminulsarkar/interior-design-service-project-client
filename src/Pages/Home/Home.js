@@ -1,5 +1,7 @@
 import React from 'react';
 import useTitle from '../../Hooks/useTitle';
+import AboutSection from './AboutSection';
+import ContactSection from './ContactSection';
 import ControlledCarousel from './ControlledCarousel';
 import Firstsection from './Firstsection';
 import Seconsection from './Seconsection';
@@ -11,9 +13,9 @@ const Home = () => {
     return (
         <div className='container'>
             <ControlledCarousel></ControlledCarousel>
-            <Firstsection></Firstsection>
+            <AboutSection></AboutSection>
             <Threeservicecard></Threeservicecard>
-            <Seconsection></Seconsection>
+            <ContactSection></ContactSection>
         </div>
     );
 };
