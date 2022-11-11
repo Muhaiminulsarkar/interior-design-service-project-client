@@ -1,0 +1,44 @@
+[
+    {
+        "service_id": "01",
+        "title": "Interior Design",
+        "img": "https://thelavishinteriors.com/wp-content/uploads/2022/01/interior-design-1.jpg",
+        "price": "100-150",
+        "description": "Adding value to your interiors and making them gorgeous through quality design and expertise.That’s what our interior design services are all about.It’s not simply a matter of choosing colours and placing a few pieces of furniture – but about making your space beautiful and efficient."
+    },
+    {
+        "service_id": "02",
+        "title": "Exterior Design",
+        "img": "https://thelavishinteriors.com/wp-content/uploads/2022/01/exterior-design-1.jpg",
+        "price": "200-300",
+        "description": "Not satisfied with how the exterior of your space looks? Looking to boost the exterior appeal of your space?We get it. However awesome the interior of a living/work space may be, an ill-designed exterior can ruin the charm of it.It’s time to transform the exteriors of your living/work space, and give them the WOW factor that you’re looking for!"
+    },
+    {
+        "service_id": "03",
+        "title": "Furniture Design",
+        "img": "https://thelavishinteriors.com/wp-content/uploads/2022/01/furniture-design-1.jpg",
+        "price": "50-165",
+        "description": "Good furniture design is not about simply carpentry and painting.Good furniture design is all about furniture designers challenging themselves to push the limits of innovation and luxury, and craft excellence.We at Lavish Interiors know this, and will create furniture that’s stunning, unique, and customized to match your needs."
+    },
+    {
+        "service_id": "04",
+        "title": "Office Design",
+        "img": "https://thelavishinteriors.com/wp-content/uploads/2022/01/office-interior-3.jpg",
+        "price": "200-500",
+        "description": "The right office interior design solutions can do wonders for your workplace, by boosting employee morale, productivity, and even customer sentiments, if you have a customer-facing business.A good office design will also push the right work ethic and reflect your brand value.That is how we at Lavish Interiors see office interior design in Bangladesh."
+    },
+    {
+        "service_id": "05",
+        "title": "Restaurant Design",
+        "img": "https://thelavishinteriors.com/wp-content/uploads/2022/01/restaurant-interior-1.jpg",
+        "price": "300-400",
+        "description": "Elegant interior design can transform your restaurant concept into a fine dining space with charm and ambience.Plus, the restaurant will have to maintain an element of hygiene.We at Lavish Interiors will take all of this into account, and work to get all the specifics, from dining floor layout to lighting management, correct, to design an awesome restaurant interior in Bangladesh for you."
+    },
+    {
+        "service_id": "06",
+        "title": "Showroom Design",
+        "img": "https://thelavishinteriors.com/wp-content/uploads/2022/01/showroom-interior-1.jpg",
+        "price": "300-500",
+        "description": "Our showroom design incorporates innovative ways of showcasing your products and reflecting your brand."
+    }
+]

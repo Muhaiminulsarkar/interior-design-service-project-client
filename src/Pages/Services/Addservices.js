@@ -16,7 +16,7 @@ const Addservices = () => {
     const additems = { title, service_id, img, price, description, email };
 
     //send data
-    fetch("https://cloud-kitchen-tau.vercel.app/services", {
+    fetch("http://localhost:5000/services", {
       method: "POST",
       headers: {
         "content-type": "application/json",

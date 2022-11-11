@@ -10,7 +10,7 @@ const MyreviewsCard = ({ review }) => {
     const proceed = window.confirm("Are you sure delete?");
     if (proceed) {
       console.log("deleting", id);
-      const url = `https://cloud-kitchen-tau.vercel.app/reviews/${id}`;
+      const url = `http://localhost:5000/reviews/${id}`;
       fetch(url, {
         method: "DELETE",
       })

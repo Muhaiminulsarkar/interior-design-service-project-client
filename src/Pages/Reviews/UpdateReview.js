@@ -9,7 +9,7 @@ const UpdateReview = () => {
   const [reviews, setReviews] = useState([]);
   useTitle("services");
   useEffect(() => {
-    fetch(`https://cloud-kitchen-tau.vercel.app/reviews/${id}`)
+    fetch(`http://localhost:5000/reviews/${id}`)
       .then((res) => res.json())
       .then((data) => setReviews(data));
   }, []);
@@ -25,7 +25,7 @@ const UpdateReview = () => {
     const additems = { name, image, rating, reviews, id, email };
 
     //send data
-    fetch(`https://cloud-kitchen-tau.vercel.app/reviews/${id}`, {
+    fetch(`http://localhost:5000/reviews/${id}`, {
       method: "PUT",
       headers: {
         "content-type": "application/json",
