@@ -15,6 +15,7 @@ const Threeservicecard = () => {
   return (
     <div>
       <h1 className="text-center fw-bold">My Services</h1>
+      <hr />
       <div className="row row-cols-1 row-cols-lg-3 d-flex justify-content-center align-items-center">
         {services.slice(0, 3).map((service) => (
           <Threecard key={service._id} service={service}></Threecard>

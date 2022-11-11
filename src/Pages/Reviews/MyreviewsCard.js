@@ -37,7 +37,7 @@ const MyreviewsCard = ({ review }) => {
             <b>Reviews:</b>
             {reviews}{" "}
           </p>
-          <button className="btn" onClick={() => handledeletereview(review._id)}>
+          <button className="btn btn-danger mx-3" onClick={() => handledeletereview(review._id)}>
             {" "}
             x{" "}
           </button>
