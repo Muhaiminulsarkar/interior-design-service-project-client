@@ -15,7 +15,7 @@ const AboutSection = () => {
                             <p>Have you ever tried handling a home decoration project by yourself, but found it difficult to execute it all on your own? Or you’ve possibly considered hiring a professional to design your space, but been put off by expensive renovation fees, hassle of coordination and the overall extensive timelines.
                             </p>
                             <Button variant="primary">
-                                <Link className='text-light text-decoration-none fw-bold' to={`/courses`}>Get Started</Link>
+                                <Link className='text-light text-decoration-none fw-bold' to={`/services`}>Go for all details</Link>
                             </Button>
                         </Col>
 
