@@ -6,13 +6,14 @@ import Home from "./Pages/Home/Home";
 import Services from "./Pages/Services/Services";
 import Login from "./Pages/LoginAndRegistration/Login";
 import Signup from "./Pages/LoginAndRegistration/Signup";
-import NotFound from "./NotFound";
+
 import Blog from "./Pages/Blog/Blog";
 import MyReviews from "./Pages/Reviews/MyReviews";
 import Addservices from "./Pages/Services/Addservices";
 import ServicesDetails from "./Pages/Services/ServicesDetails";
 import UpdateReview from "./Pages/Reviews/UpdateReview";
 import PrivateRoute from "./PrivateRoute/PrivateRoute";
+import NotFound from "./NotFound";
 
 function App() {
   const router = createBrowserRouter([
