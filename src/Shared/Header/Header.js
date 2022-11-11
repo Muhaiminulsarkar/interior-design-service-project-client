@@ -20,10 +20,10 @@ const Header = () => {
     <div>
       <Navbar className="container"  expand="lg">
         <Container>
-          <Navbar.Brand className="text-warning fw-bold" as={Link} to={"/"}>Interior Hub</Navbar.Brand>
+          <Navbar.Brand className="text-primary fw-bold fs-3" as={Link} to={"/"}>Interior Hub</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="mx-auto fw-bold">
+            <Nav className="mx-auto fw-bold fs-5">
               <Nav.Link className="text-black" as={Link} to={"/"}>Home</Nav.Link>
               <Nav.Link className="text-black" as={Link} to={"/services"}>Services</Nav.Link>
               <Nav.Link className="text-black" as={Link} to={"/blog"}>Blog</Nav.Link>

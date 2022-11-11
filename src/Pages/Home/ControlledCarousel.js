@@ -21,7 +21,7 @@ const ControlledCarousel = () => {
          </div>
           <Carousel.Caption>
            
-            <p>I'm Rachel Farnsworth. This is the place where I share restaurant quality recipes you can easily make at home. I'm bringing back the family dinner in a really delicious way!!</p>
+            <p>“As an interior brand, what you’re doing is really innovative. I haven’t seen this before in Bangladesh, so I appreciate it. It’s great that you’re getting in touch for feedback after the service has been completed, and looking to listen to clients about their experience. That’s great.”</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -36,7 +36,7 @@ const ControlledCarousel = () => {
           </div>
   
           <Carousel.Caption>
-            <p>I'm john doe. This is the place where I share restaurant quality recipes you can easily make at home. I'm bringing back the family dinner in a really delicious way!!</p>
+            <p>The Bengali ethnicity dwells in our hearts and souls. It has been an integral part of our identity for generations. Our deshi traits are quite often vividly portrayed in our daily lives in some way or the other. So why not incorporate a splash of our rich history and culture into your homes? In this blog, you will find 7 tips to spruce up your home interiors so that it exudes that ethnic charm!</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -53,7 +53,7 @@ const ControlledCarousel = () => {
           <Carousel.Caption>
             
             <p>
-              I'm Rachel Farnsworth. This is the place where I share restaurant quality recipes you can easily make at home. I'm bringing back the family dinner in a really delicious way!!
+            One of the most effortless, yet effective methods to add a Bangaliyana touch to your home is by hanging framed traditional artwork. This adds an ethnic flair and a well-defined look. It can be a conventional Bengali painting, or even a tapestry consisting of deshi motifs, and/or pattern. You can attain this by hanging artwork of Nakshi Kantha, or Nakshi Kantha inspired artistry. Not only will this add a touch of locality into your room but it will also be successful
             </p>
           </Carousel.Caption>
         </Carousel.Item>
