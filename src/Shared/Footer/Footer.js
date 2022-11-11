@@ -13,11 +13,11 @@ const Footer = () => {
               <div className="single_footer">
                 <h4>Services</h4>
                 <ul className="services-list">
-                  <li>Home Delivery</li>
-                  <li>Hygenic Food</li>
-                  <li>resonable price</li>
-                  <li>16/7 support</li>
-                  <li>Discount price</li>
+                  <li>Servics Delivery</li>
+                  <li>Best Design</li>
+                  <li>Low cost</li>
+                  <li>Mirpur-1</li>
+                  <li> Lots of Discount</li>
                 </ul>
               </div>
             </div>
@@ -65,7 +65,7 @@ const Footer = () => {
                       placeholder="Enter Email Address"
                     />
                   </form>
-                  <Button className="mt-2 btn btn-danger">Subscribe</Button>
+                  <Button className="mt-2 btn btn-primary">Subscribe</Button>
                 </div>
               </div>
             </div>
@@ -75,7 +75,7 @@ const Footer = () => {
               <p className="copyright">
                 Copyright © 2022{" "}
                 <Link as to={"/"}>
-                  Cloud Kitchen
+                  Interior Hub
                 </Link>
                 .
               </p>
