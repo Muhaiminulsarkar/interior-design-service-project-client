@@ -16,7 +16,7 @@ const Addservices = () => {
     const additems = { title, service_id, img, price, description, email };
 
     //send data
-    fetch("http://localhost:5000/services", {
+    fetch("https://interior-design-server-site.vercel.app/services", {
       method: "POST",
       headers: {
         "content-type": "application/json",
