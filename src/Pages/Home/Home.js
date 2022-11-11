@@ -3,8 +3,7 @@ import useTitle from '../../Hooks/useTitle';
 import AboutSection from './AboutSection';
 import ContactSection from './ContactSection';
 import ControlledCarousel from './ControlledCarousel';
-import Firstsection from './Firstsection';
-import Seconsection from './Seconsection';
+
 import Threeservicecard from './Threeservicecard';
 
 const Home = () => {

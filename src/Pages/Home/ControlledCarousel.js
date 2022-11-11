@@ -14,7 +14,7 @@ const ControlledCarousel = () => {
          <div className='carousel-img'>
          <img
             className="d-block w-100"
-            src="https://img.freepik.com/free-photo/man-wearing-white-apron-with-red-lines-cooking-something-kitchen_181624-35218.jpg?w=996&t=st=1667897764~exp=1667898364~hmac=fc8e86c634968316fe4ee1dbec5858c817e3c2aebe3d8663501f67a426c647de"
+            src="https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt="First slide"
             height="650px"
           />
@@ -29,7 +29,7 @@ const ControlledCarousel = () => {
           <div className='carousel-img'>
           <img
             className="d-block w-100"
-            src="https://img.freepik.com/free-photo/accuracy-smiling-inspired-man-standing-wiping-dishes-serving-table-home-cozy-kitchen_259150-59246.jpg?w=996&t=st=1667898025~exp=1667898625~hmac=ad5c0be35b38751c9ecc510712e3f1e988b5fd7905d02ce7484b112950f6a710"
+            src="https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt="Second slide"
             height="650px"
           />
@@ -44,7 +44,7 @@ const ControlledCarousel = () => {
          <div className='carousel-img'>
          <img
             className="d-block w-100"
-            src="https://img.freepik.com/premium-psd/man-kitchen-holding-rolling-pin_23-2148727472.jpg?w=996"
+            src="https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt="Third slide"
             height="650px"
           />
